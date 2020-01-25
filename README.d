@@ -1,3 +1,0 @@
-Divorce Analysis Project
-
-Description
