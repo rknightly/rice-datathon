@@ -13,4 +13,4 @@ We then found that these personality traits are highly predictive of divorce, al
 https://archive.ics.uci.edu/ml/datasets/Divorce+Predictors+data+set
 
 ## Link to our presentation
-https://docs.google.com/presentation/d/1btjQu3IFjhRYeGQgNUfpcW3La_hsiwKy52Yb5EXikmQ/edit?ts=5e2c6e0d#slide=id.g7cdebc1faa_0_119
+https://docs.google.com/presentation/d/1btjQu3IFjhRYeGQgNUfpcW3La_hsiwKy52Yb5EXikmQ/edit?usp=sharing
